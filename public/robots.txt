@@ -1,0 +1,4 @@
+This file is critical.
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
